@@ -1,6 +1,8 @@
 # Rhyme-Scheme-Detector
 Umut Ucak's Semester 1 BSP
 
+------------------------------------------------------------------
+
 Required libraries:
 
 pip install pronouncing
@@ -10,6 +12,7 @@ pip install pillow
 pip install PyPDF2
 
 ------------------------------------------------------------------
+
 Text can be inputted inside the text box, and then depending on what the user wishes to do with the said input, either the Rhyme Scheme
 Detector or the Rhyme Dictionary can be run. 
 
