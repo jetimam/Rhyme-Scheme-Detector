@@ -5,11 +5,11 @@ Umut Ucak's Semester 1 BSP
 
 Required libraries:
 
-pip install pronouncing
+-pip install pronouncing
 
-pip install pillow
+-pip install pillow
 
-pip install PyPDF2
+-pip install PyPDF2
 
 ------------------------------------------------------------------
 
